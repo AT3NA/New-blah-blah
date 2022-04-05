@@ -17,13 +17,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['919537130849']
+global.owner = ['917407138389']
 global.web = 'https://youtube.com/c/KahfzXzyy'
 global.bot = 'KahfxxZ'
-global.premium = ['919537130849']
+global.premium = ['7407138389']
 global.packname = 'Hisoka Morrow'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'A H A D'
+global.sessionName = 'ABCD'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
